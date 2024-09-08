@@ -1,0 +1,30 @@
+body{
+    padding-top: 100px;
+    padding-left: 30em;
+}
+.a{
+    position: relative;
+    bottom: 26em;
+    left: 2em;
+    color:green;
+}
+.b h3{
+    position: relative;
+    bottom: 22em;
+    left: 3em;
+    color: black;
+}
+.c h3{
+    position: relative;
+    bottom: 22em;
+    left: 3em;
+}
+.d h3{
+    position: relative;
+    bottom: 22em;
+    left: 3em;
+}
+.e h3{
+    position: relative;
+    bottom: 20em;
+}
